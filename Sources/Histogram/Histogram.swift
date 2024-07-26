@@ -10,7 +10,7 @@
 
 // swiftlint:disable file_length type_body_length line_length identifier_name
 
-import Foundation
+internal import Foundation
 import Numerics
 
 /**
